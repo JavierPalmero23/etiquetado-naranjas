@@ -7,3 +7,4 @@ do
     python3 SelectorPunto.py
     sleep 1
 done
+
